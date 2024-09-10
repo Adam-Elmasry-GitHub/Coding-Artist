@@ -1,2 +1,2 @@
-Learning Journey 
+Learning Journey with
 macOS Catalina
